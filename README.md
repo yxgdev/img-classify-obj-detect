@@ -16,4 +16,5 @@ Perform image classification:
 
 Credits
 ImageAI: https://github.com/OlafenwaMoses/ImageAI
+
 Images from Unsplash
