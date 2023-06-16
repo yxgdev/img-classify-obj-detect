@@ -15,7 +15,8 @@ This project can also be done using custom trained model.
 
 ## Usage
 
-Perform image classification:
+
+Perform Object Detection Example:
 
 ![Street Image](/street.jpg)
 
