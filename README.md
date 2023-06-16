@@ -17,6 +17,10 @@ This project can also be done using custom trained model.
 
 Perform image classification:
 
+![Street Image](/street.jpg)
+
+![Street Image Detected](/street_detected.jpg)
+
 ## Credits
 
 ImageAI: https://github.com/OlafenwaMoses/ImageAI
